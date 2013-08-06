@@ -1,4 +1,4 @@
-osocs
+OSOCS
 =====
 
 Design OSOCS project with Boostrap 
